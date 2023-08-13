@@ -1,0 +1,1 @@
+# amstrong_number_checker
